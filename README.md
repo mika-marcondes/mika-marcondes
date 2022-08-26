@@ -10,6 +10,7 @@
   <img align="center" alt="Mika-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="right" alt="Rafa-pic" height="150" src="https://media.discordapp.net/attachments/1012810924509368416/1012812546677428324/mypfp.png?width=499&height=499">
 </div>
 
 ##
